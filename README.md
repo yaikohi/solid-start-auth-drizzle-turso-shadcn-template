@@ -1,4 +1,4 @@
-# SolidStart + Authjs + Drizzle + Turso + Shadcn template project.
+# SolidStart + Authjs + Drizzle + Turso + Shadcn template
 
 Oh and it currently is configured to be using google oauth. You can change that however you like; if you want to know how check out the docs on authjs.
 - It just has all the shadcn/ui components to go.
