@@ -1,6 +1,6 @@
 # SolidStart + Authjs + Drizzle + Turso + Shadcn template project.
 
-FEEL FREE TO ENJOY THIS WHILE IT LASTS
+Oh and it currently is configured to be using google oauth. You can change that however you like; if you want to know how check out the docs on authjs.
 
 # Particles
 1. [SolidStart](https://start.solidjs.com/getting-started/what-is-solidstart)
